@@ -51,4 +51,9 @@ html{
   .info-text {
     @apply font-montserrat text-slate-gray text-lg leading-7;
   }
+
+  .max-container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
 }
